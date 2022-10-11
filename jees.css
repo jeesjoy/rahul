@@ -1,0 +1,24 @@
+body{
+    background-image: url("./img/AP22106563559775.webp");
+background-size: cover;
+}
+button{
+    border-radius: 50px;
+    height: 50px;
+    width: 100px;
+    background-color: aliceblue;
+    color:blue;
+}
+button:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+p:hover{
+    color:aliceblue
+}
+h1{
+    color: blueviolet;
+}
+span{
+    color: yellow;
+}
